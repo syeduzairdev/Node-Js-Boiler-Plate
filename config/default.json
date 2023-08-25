@@ -1,0 +1,5 @@
+{
+	"MONGO_URI":"your-mongo-uri",
+    "JWT_SECRET":"your-secret",
+    "baseUrl":"http://localhost:5000"
+}
